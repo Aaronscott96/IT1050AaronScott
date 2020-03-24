@@ -1,0 +1,13 @@
+C:\Users\aaron\OneDrive\Desktop\IT1050\IT1050AaronScott\lab 1\bin\Debug\netcoreapp3.1\lab 1.exe
+C:\Users\aaron\OneDrive\Desktop\IT1050\IT1050AaronScott\lab 1\bin\Debug\netcoreapp3.1\lab 1.deps.json
+C:\Users\aaron\OneDrive\Desktop\IT1050\IT1050AaronScott\lab 1\bin\Debug\netcoreapp3.1\lab 1.runtimeconfig.json
+C:\Users\aaron\OneDrive\Desktop\IT1050\IT1050AaronScott\lab 1\bin\Debug\netcoreapp3.1\lab 1.runtimeconfig.dev.json
+C:\Users\aaron\OneDrive\Desktop\IT1050\IT1050AaronScott\lab 1\bin\Debug\netcoreapp3.1\lab 1.dll
+C:\Users\aaron\OneDrive\Desktop\IT1050\IT1050AaronScott\lab 1\bin\Debug\netcoreapp3.1\lab 1.pdb
+C:\Users\aaron\OneDrive\Desktop\IT1050\IT1050AaronScott\lab 1\obj\Debug\netcoreapp3.1\lab 1.csprojAssemblyReference.cache
+C:\Users\aaron\OneDrive\Desktop\IT1050\IT1050AaronScott\lab 1\obj\Debug\netcoreapp3.1\lab 1.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Desktop\IT1050\IT1050AaronScott\lab 1\obj\Debug\netcoreapp3.1\lab 1.AssemblyInfoInputs.cache
+C:\Users\aaron\OneDrive\Desktop\IT1050\IT1050AaronScott\lab 1\obj\Debug\netcoreapp3.1\lab 1.AssemblyInfo.cs
+C:\Users\aaron\OneDrive\Desktop\IT1050\IT1050AaronScott\lab 1\obj\Debug\netcoreapp3.1\lab 1.dll
+C:\Users\aaron\OneDrive\Desktop\IT1050\IT1050AaronScott\lab 1\obj\Debug\netcoreapp3.1\lab 1.pdb
+C:\Users\aaron\OneDrive\Desktop\IT1050\IT1050AaronScott\lab 1\obj\Debug\netcoreapp3.1\lab 1.genruntimeconfig.cache
