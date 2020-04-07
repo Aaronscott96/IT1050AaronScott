@@ -1,0 +1,13 @@
+C:\Users\aaron\OneDrive\Desktop\IT1050AaronScott\LAB31\bin\Debug\netcoreapp3.1\LAB31.exe
+C:\Users\aaron\OneDrive\Desktop\IT1050AaronScott\LAB31\bin\Debug\netcoreapp3.1\LAB31.deps.json
+C:\Users\aaron\OneDrive\Desktop\IT1050AaronScott\LAB31\bin\Debug\netcoreapp3.1\LAB31.runtimeconfig.json
+C:\Users\aaron\OneDrive\Desktop\IT1050AaronScott\LAB31\bin\Debug\netcoreapp3.1\LAB31.runtimeconfig.dev.json
+C:\Users\aaron\OneDrive\Desktop\IT1050AaronScott\LAB31\bin\Debug\netcoreapp3.1\LAB31.dll
+C:\Users\aaron\OneDrive\Desktop\IT1050AaronScott\LAB31\bin\Debug\netcoreapp3.1\LAB31.pdb
+C:\Users\aaron\OneDrive\Desktop\IT1050AaronScott\LAB31\obj\Debug\netcoreapp3.1\LAB31.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Desktop\IT1050AaronScott\LAB31\obj\Debug\netcoreapp3.1\LAB31.AssemblyInfoInputs.cache
+C:\Users\aaron\OneDrive\Desktop\IT1050AaronScott\LAB31\obj\Debug\netcoreapp3.1\LAB31.AssemblyInfo.cs
+C:\Users\aaron\OneDrive\Desktop\IT1050AaronScott\LAB31\obj\Debug\netcoreapp3.1\LAB31.dll
+C:\Users\aaron\OneDrive\Desktop\IT1050AaronScott\LAB31\obj\Debug\netcoreapp3.1\LAB31.pdb
+C:\Users\aaron\OneDrive\Desktop\IT1050AaronScott\LAB31\obj\Debug\netcoreapp3.1\LAB31.genruntimeconfig.cache
+C:\Users\aaron\OneDrive\Desktop\IT1050AaronScott\LAB31\obj\Debug\netcoreapp3.1\LAB31.csprojAssemblyReference.cache
